@@ -1,0 +1,9 @@
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\bin\Debug\Alum2.exe.config
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\bin\Debug\Alum2.exe
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\bin\Debug\Alum2.pdb
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\obj\Debug\Alum2.csprojResolveAssemblyReference.cache
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\obj\Debug\Alum2.Form1.resources
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\obj\Debug\Alum2.Properties.Resources.resources
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\obj\Debug\Alum2.csproj.GenerateResource.Cache
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\obj\Debug\Alum2.exe
+C:\Users\brend\Desktop\lab daf\Alum2\Alum2\obj\Debug\Alum2.pdb
